@@ -1,5 +1,3 @@
-# Clad Sovereign
-
 **Native mobile infrastructure for sovereign real-world asset issuance on Polkadot**
 
 Clad Sovereign is the first ministry-grade, biometric-secured mobile signer and compliance pallet designed for finance ministries, debt offices, and state issuers in emerging markets.
